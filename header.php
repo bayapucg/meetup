@@ -265,7 +265,7 @@
 						<!-- site-logo-wrapper - start -->
 						<div class="col-lg-3">
 							<div class="site-logo-wrapper">
-								<a href="index-1.html" class="logo">
+								<a href="index.php" class="logo">
 									<img src="assets/images/0.site-logo.png" alt="logo_not_found">
 								</a>
 							</div>

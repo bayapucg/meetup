@@ -19,8 +19,8 @@
 												<i class="fas fa-map-marker-alt"></i>
 											</span>
 											<div class="info-content">
-												<p>100 highland ave,</p>
-												<h3>california, united state</h3>
+												<p>100 feet road,</p>
+												<h3>hyderabad, telangana</h3>
 											</div>
 										</div>
 									</div>
@@ -33,8 +33,8 @@
 												<i class="fas fa-envelope"></i>
 											</span>
 											<div class="info-content">
-												<p><a href="#!">contact@pantero.com</a></p>
-												<h3><a href="#!">info@harmoni.com</a></h3>
+												<p><a href="#!">carrer@meetup.com</a></p>
+												<h3><a href="#!">info@meetup.com</a></h3>
 											</div>
 										</div>
 									</div>
@@ -47,8 +47,8 @@
 												<i class="fas fa-phone"></i>
 											</span>
 											<div class="info-content">
-												<p><a href="#!">100 800 1234 5555</a></p>
-												<h3><a href="#!">100 800 1234 5555</a></h3>
+												<p><a href="#!">9845632175</a></p>
+												<h3><a href="#!">040-48541273</a></h3>
 											</div>
 										</div>
 									</div>
@@ -66,13 +66,13 @@
 								<!-- site-logo-wrapper - start -->
 								<div class="site-logo-wrapper mb-30">
 									<a href="index-1.html" class="logo">
-										<img src="assets/images/1.site-logo.png" alt="logo_not_found">
+										<img src="assets/images/1.site-logo.png" alt="Meetup">
 									</a>
 								</div>
 								<!-- site-logo-wrapper - end -->
 
 								<p class="mb-30">
-									Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.
+									Getting together with real people in real life makes powerful things happen. Meetup brings people together to create thriving communities.
 								</p>
 
 								<!-- social-links - start -->
@@ -86,13 +86,13 @@
 											<a href="#!"><i class="fab fa-twitter"></i></a>
 										</li>
 										<li>
-											<a href="#!"><i class="fab fa-twitch"></i></a>
-										</li>
-										<li>
 											<a href="#!"><i class="fab fa-google-plus-g"></i></a>
 										</li>
 										<li>
 											<a href="#!"><i class="fab fa-instagram"></i></a>
+										</li>
+                                        <li>
+											<a href="#!"><i class="fab fa-youtube"></i></a>
 										</li>
 									</ul>
 								</div>
@@ -102,74 +102,53 @@
 						</div>
 						<!-- about-wrapper - end -->
 
-						<!-- usefullinks-wrapper - start -->
+						<!-- account - start -->
 						<div class="col-lg-3 col-md-6 col-sm-12">
 							<div class="usefullinks-wrapper ul-li-block">
 								<h3 class="footer-item-title">
-									useful <strong>links</strong>
+									<strong>Your Account</strong>
 								</h3>
 								<ul>
-									<li><a href="#!">Birthday Party</a></li>
-									<li><a href="#!">Business meeting</a></li>
-									<li><a href="#!">Conference</a></li>
-									<li><a href="#!">Food Event</a></li>
-									<li><a href="#!">Musical Event</a></li>
-									<li><a href="#!">Wedding Party</a></li>
+									<li><a href="#!">Log In</a></li>
+									<li><a href="#!">Sign Up</a></li>
+									<li><a href="#!">Help</a></li>
 								</ul>
-								
 							</div>
 						</div>
-						<!-- usefullinks-wrapper - end -->
+						<!-- account - end -->
 
-						<!-- usefullinks-wrapper - start -->
+						<!-- meetup - start -->
 						<div class="col-lg-3 col-md-6 col-sm-12">
 							<div class="usefullinks-wrapper ul-li-block">
 								<h3 class="footer-item-title">
-									useful <strong>links</strong>
+									<strong>Meetup</strong>
 								</h3>
 								<ul>
-									<li><a href="#!">About Harmoni</a></li>
-									<li><a href="#!">Disclaimer</a></li>
-									<li><a href="#!">Contact us</a></li>
-									<li><a href="#!">Events Schedule</a></li>
-									<li><a href="#!">Sponsors</a></li>
-									<li><a href="#!">Venues</a></li>
+									<li><a href="about.html">About</a></li>
+									<li><a href="#!">Meetup Pro</a></li>
+									<li><a href="#!">Careers</a></li>
+									<li><a href="contact.html">Contact</a></li>
+									<li><a href="#!">Apps</a></li>
 								</ul>
-								
 							</div>
 						</div>
-						<!-- usefullinks-wrapper - end -->
+						<!-- meetup - end -->
 
-						<!-- instagram-wrapper - start -->
+						<!-- discover - start -->
 						<div class="col-lg-3 col-md-6 col-sm-12">
-							<div class="instagram-wrapper ul-li">
+							<div class="usefullinks-wrapper ul-li-block">
 								<h3 class="footer-item-title">
-									harmoni <strong>instagram</strong>
+									<strong>Discover</strong>
 								</h3>
 								<ul>
-									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img1.png" alt="Image_not_found">
-										<a href="#!"><i class="fab fa-instagram"></i></a>
-									</li>
-									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img2.png" alt="Image_not_found">
-										<a href="#!"><i class="fab fa-instagram"></i></a>
-									</li>
-									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img3.png" alt="Image_not_found">
-										<a href="#!"><i class="fab fa-instagram"></i></a>
-									</li>
-									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img4.png" alt="Image_not_found">
-										<a href="#!"><i class="fab fa-instagram"></i></a>
-									</li>
+									<li><a href="#!">Topics</a></li>
+									<li><a href="#!">Cities</a></li>
+									<li><a href="#!">Groups</a></li>
+									<li><a href="#!">Calendar</a></li>
 								</ul>
-								<h4 class="followus-link">
-									Follow Our Instagram <a href="#!">#Harmoni</a>
-								</h4>
 							</div>
 						</div>
-						<!-- instagram-wrapper - end -->
+						<!-- discover - end -->
 
 					</div>
 				</div>
@@ -183,7 +162,7 @@
 						<!-- copyright-text - start -->
 						<div class="col-lg-7 col-md-12 col-sm-12">
 							<div class="copyright-text">
-								<p class="m-0">©2018 <a href="#!" class="site-link">Harmoni.com</a> all right reserved, made with <i class="fas fa-heart"></i> by <a href="#!" class="author-link"><strong>jThemes Studio</strong></a></p>
+								<p class="m-0">©2018 <a href="#!" class="site-link">Meetup.com</a> all right reserved</p>
 							</div>
 						</div>
 						<!-- copyright-text - end -->
@@ -192,10 +171,9 @@
 						<div class="col-lg-5 col-md-12 col-sm-12">
 							<div class="footer-menu">
 								<ul>
-									<li><a href="contact.html">Contact us</a></li>
-									<li><a href="about.html">About us</a></li>
-									<li><a href="#!">Site map</a></li>
 									<li><a href="#!">Privacy policy</a></li>
+									<li><a href="#!">Cookie policy</a></li>
+									<li><a href="#!">Terms of Service</a></li>
 								</ul>
 							</div>
 						</div>
