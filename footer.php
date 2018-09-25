@@ -65,7 +65,7 @@
 
 								<!-- site-logo-wrapper - start -->
 								<div class="site-logo-wrapper mb-30">
-									<a href="index-1.html" class="logo">
+									<a href="index.php" class="logo">
 										<img src="assets/images/1.site-logo.png" alt="Meetup">
 									</a>
 								</div>
@@ -111,7 +111,7 @@
 								<ul>
 									<li><a href="#!">Log In</a></li>
 									<li><a href="#!">Sign Up</a></li>
-									<li><a href="#!">Help</a></li>
+									<li><a href="faq.php">Help</a></li>
 								</ul>
 							</div>
 						</div>
@@ -126,7 +126,7 @@
 								<ul>
 									<li><a href="about.html">About</a></li>
 									<li><a href="#!">Meetup Pro</a></li>
-									<li><a href="#!">Careers</a></li>
+									<li><a href="careers.php">Careers</a></li>
 									<li><a href="contact.html">Contact</a></li>
 									<li><a href="#!">Apps</a></li>
 								</ul>
@@ -141,9 +141,9 @@
 									<strong>Discover</strong>
 								</h3>
 								<ul>
-									<li><a href="#!">Topics</a></li>
-									<li><a href="#!">Cities</a></li>
-									<li><a href="#!">Groups</a></li>
+									<li><a href="topics.php">Topics</a></li>
+									<li><a href="cities.php">Cities</a></li>
+									<li><a href="group-listing.php">Groups</a></li>
 									<li><a href="#!">Calendar</a></li>
 								</ul>
 							</div>

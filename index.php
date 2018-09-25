@@ -240,7 +240,6 @@
 
 
 
-
 		<!-- category-section - start
 		================================================== -->
 		<section id="about-section2" class="about-section2 sec-ptb-100 bg-gray-light clearfix">
@@ -1403,107 +1402,115 @@
 				<!-- section-title - end -->
 
 				<!-- event-expertise-carousel - start -->
-				<div id="event-expertise-carousel" class="event-expertise-carousel owl-carousel owl-theme">
+				<div id="" class="event-expertise-carousel">
                     <div class="row">
-                        <!-- expertise-item - start -->
-                        <div class="item">
-                            <span class="expertise-title">The Entrepreneur Zone</span>
-                            <div class="expertise-item">
-                                <div class="image image-wrapper">
-                                    <img src="assets/images/upcomming-events/event-1.jpg" alt="Image_not_found">
-                                    <a href="#!" class="plus-effect"></a>
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">The Entrepreneur Zone</h3>
-                                    <p>We're <strong>1,985 </strong> TEZians</p>
+                        <div class="col-md-4">
+                            <!-- expertise-item - start -->
+                            <div class="item">
+                                <span class="expertise-title">The Entrepreneur Zone</span>
+                                <div class="expertise-item">
+                                    <div class="image image-wrapper">
+                                        <img src="assets/images/upcomming-events/event-1.jpg" alt="Image_not_found">
+                                        <a href="group-details.php" class="plus-effect"></a>
+                                    </div>
+                                    <div class="content">
+                                        <h3 class="title">The Entrepreneur Zone</h3>
+                                        <p>We're <strong>1,985 </strong> TEZians</p>
+                                    </div>
                                 </div>
                             </div>
+                            <!-- expertise-item - end -->
                         </div>
-                        <!-- expertise-item - end -->
+                        
+                        <div class="col-md-4">
+                            <!-- expertise-item - start -->
+                            <div class="item">
+                                <span class="expertise-title">The Entrepreneur Zone</span>
+                                <div class="expertise-item">
+                                    <div class="image image-wrapper">
+                                        <img src="assets/images/upcomming-events/event-2.jpg" alt="Image_not_found">
+                                        <a href="group-details.php" class="plus-effect"></a>
+                                    </div>
+                                    <div class="content">
+                                        <h3 class="title">The Entrepreneur Zone</h3>
+                                        <p>We're <strong>1,985 </strong> TEZians</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- expertise-item - end -->
+                        </div>
 
-                        <!-- expertise-item - start -->
-                        <div class="item">
-                            <span class="expertise-title">The Entrepreneur Zone</span>
-                            <div class="expertise-item">
-                                <div class="image image-wrapper">
-                                    <img src="assets/images/upcomming-events/event-2.jpg" alt="Image_not_found">
-                                    <a href="#!" class="plus-effect"></a>
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">The Entrepreneur Zone</h3>
-                                    <p>We're <strong>1,985 </strong> TEZians</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- expertise-item - end -->
-                    </div>
-					
-                    <div class="row">
-                        <!-- expertise-item - start -->
-                        <div class="item">
-                            <span class="expertise-title">The Entrepreneur Zone</span>
-                            <div class="expertise-item">
-                                <div class="image image-wrapper">
-                                    <img src="assets/images/upcomming-events/event-2.jpg" alt="Image_not_found">
-                                    <a href="#!" class="plus-effect"></a>
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">The Entrepreneur Zone</h3>
-                                    <p>We're <strong>1,985 </strong> TEZians</p>
+                        <div class="col-md-4">
+                            <!-- expertise-item - start -->
+                            <div class="item">
+                                <span class="expertise-title">The Entrepreneur Zone</span>
+                                <div class="expertise-item">
+                                    <div class="image image-wrapper">
+                                        <img src="assets/images/upcomming-events/event-3.jpg" alt="Image_not_found">
+                                        <a href="group-details.php" class="plus-effect"></a>
+                                    </div>
+                                    <div class="content">
+                                        <h3 class="title">The Entrepreneur Zone</h3>
+                                        <p>We're <strong>1,985 </strong> TEZians</p>
+                                    </div>
                                 </div>
                             </div>
+                            <!-- expertise-item - end -->
                         </div>
-                        <!-- expertise-item - end -->
-
-                        <!-- expertise-item - start -->
-                        <div class="item">
-                            <span class="expertise-title">The Entrepreneur Zone</span>
-                            <div class="expertise-item">
-                                <div class="image image-wrapper">
-                                    <img src="assets/images/upcomming-events/event-3.jpg" alt="Image_not_found">
-                                    <a href="#!" class="plus-effect"></a>
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">The Entrepreneur Zone</h3>
-                                    <p>We're <strong>1,985 </strong> TEZians</p>
+                        
+                        <div class="col-md-4">
+                            <!-- expertise-item - start -->
+                            <div class="item">
+                                <span class="expertise-title">The Entrepreneur Zone</span>
+                                <div class="expertise-item">
+                                    <div class="image image-wrapper">
+                                        <img src="assets/images/upcomming-events/event-2.jpg" alt="Image_not_found">
+                                        <a href="group-details.php" class="plus-effect"></a>
+                                    </div>
+                                    <div class="content">
+                                        <h3 class="title">The Entrepreneur Zone</h3>
+                                        <p>We're <strong>1,985 </strong> TEZians</p>
+                                    </div>
                                 </div>
                             </div>
+                            <!-- expertise-item - end -->
                         </div>
-                        <!-- expertise-item - end -->
-                    </div>
-                    
-                    <div class="row">
-                        <!-- expertise-item - start -->
-                        <div class="item">
-                            <span class="expertise-title">The Entrepreneur Zone</span>
-                            <div class="expertise-item">
-                                <div class="image image-wrapper">
-                                    <img src="assets/images/upcomming-events/event-3.jpg" alt="Image_not_found">
-                                    <a href="#!" class="plus-effect"></a>
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">The Entrepreneur Zone</h3>
-                                    <p>We're <strong>1,985 </strong> TEZians</p>
+                            
+                        <div class="col-md-4">
+                            <!-- expertise-item - start -->
+                            <div class="item">
+                                <span class="expertise-title">The Entrepreneur Zone</span>
+                                <div class="expertise-item">
+                                    <div class="image image-wrapper">
+                                        <img src="assets/images/upcomming-events/event-3.jpg" alt="Image_not_found">
+                                        <a href="group-details.php" class="plus-effect"></a>
+                                    </div>
+                                    <div class="content">
+                                        <h3 class="title">The Entrepreneur Zone</h3>
+                                        <p>We're <strong>1,985 </strong> TEZians</p>
+                                    </div>
                                 </div>
                             </div>
+                            <!-- expertise-item - end -->
                         </div>
-                        <!-- expertise-item - end -->
-
-                        <!-- expertise-item - start -->
-                        <div class="item">
-                            <span class="expertise-title">The Entrepreneur Zone</span>
-                            <div class="expertise-item">
-                                <div class="image image-wrapper">
-                                    <img src="assets/images/upcomming-events/event-1.jpg" alt="Image_not_found">
-                                    <a href="#!" class="plus-effect"></a>
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">The Entrepreneur Zone</h3>
-                                    <p>We're <strong>1,985 </strong> TEZians</p>
+                        
+                        <div class="col-md-4">
+                            <!-- expertise-item - start -->
+                            <div class="item">
+                                <span class="expertise-title">The Entrepreneur Zone</span>
+                                <div class="expertise-item">
+                                    <div class="image image-wrapper">
+                                        <img src="assets/images/upcomming-events/event-1.jpg" alt="Image_not_found">
+                                        <a href="group-details.php" class="plus-effect"></a>
+                                    </div>
+                                    <div class="content">
+                                        <h3 class="title">The Entrepreneur Zone</h3>
+                                        <p>We're <strong>1,985 </strong> TEZians</p>
+                                    </div>
                                 </div>
                             </div>
+                            <!-- expertise-item - end -->
                         </div>
-                        <!-- expertise-item - end -->
                     </div>
                     
 				</div>
@@ -1513,6 +1520,7 @@
 		</section>
 		<!-- meetup-groups-section - end
 		================================================== -->
+
 
 
 

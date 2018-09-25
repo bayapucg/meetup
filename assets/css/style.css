@@ -4528,6 +4528,26 @@ button {
 
 .homepage3 .event-expertise-section .link-btn {
   padding: 22px 0px; }
+.topics-sub-heading{
+    margin-left: 18px;
+}
+.topics-sub-btn{
+    padding: 0px;
+}
+.topics-sub-btn a {
+    font-weight: 900;
+    text-align: center;
+    padding: 6px 18px;
+    color: #333333;
+    border-radius: 30px;
+    font-size: 14px;
+    text-transform: uppercase;
+    border: 3px solid #ffbe30; }
+
+.topics-sub-btn a:hover {
+  color: #ffffff;
+  background-color: #ffbe30; }
+
   .homepage3 .event-expertise-section .link-btn a {
     font-weight: 900;
     text-align: center;
@@ -5745,6 +5765,11 @@ button {
           -webkit-text-fill-color: #ff3e00 !important; }
         .service-section .service-wrap > ul > li a:hover:before {
           opacity: 1; }
+
+
+.service-section .why-us .text-center i { 
+    background: linear-gradient(to bottom right, #ffbe30 , #ff3e00)!important;
+}
 
 /* about page - end
 ==================================================================================================== */
@@ -8193,3 +8218,143 @@ button {
 /* ====================================================================================================
 6 - media screen and (max-width: 320px) - end
 ==================================================================================================== */
+ .country-box{
+        box-sizing: border-box;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 950px;
+        padding: 20px 15px;
+        width: 100%;
+    }
+    .country-all-heading{
+        font-weight: 700;
+        font-size: 19px;
+        padding-left: 8px;
+        margin-bottom: 30px;
+    }
+    .country-list{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    .country-list .countryList-item{
+        font-size: 1rem;
+        display: inline-block;
+        margin: 0;
+        padding: 0 8px 16px;
+        vertical-align: top;
+        width: 24%;
+        box-sizing: border-box;
+    }
+    .country-list .countryList-item a{
+        color: #ffbe30;
+        font-weight: 600;
+    }
+    .country-list .countryList-item a:hover{
+        text-decoration-line: underline;
+    }
+    @media (max-width:991px){
+        .country-list .countryList-item{
+            width: 32%;
+        }
+    }
+    @media (max-width:551px){
+        .country-list .countryList-item{
+            width: 48%;
+        }
+    }
+/*
+===================================================================================================
+*/
+
+
+    .topic-box, .topics-box{
+        box-sizing: border-box;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 15px;
+        width: 100%;
+    }
+    .topics-heading{
+        font-weight: 700;
+        padding-left: 8px;
+        margin-bottom: 20px;
+    }
+    .topic-heading{
+        font-weight: 700;
+        font-size: 19px;
+        padding-left: 8px;
+        margin-bottom: 30px;
+    }
+    .topics-box a.topics-links{
+        color: #ffbe30;
+        padding-left: 8px;
+        font-weight: 600;
+    }
+    .topics-box a:hover{
+        text-decoration-line: underline;
+    }
+    .topic-list{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    .topic-list .topicList-item{
+        font-size: 1rem;
+        display: inline-block;
+        margin: 0;
+        padding: 0 8px 16px;
+        vertical-align: top;
+        width: 24%;
+        box-sizing: border-box;
+    }
+    .topic-box .topic-list .topicList-item a{
+        color: #ffbe30;
+        font-weight: 600;
+    }
+    .topic-box .topic-list .topicList-item a:hover{
+        text-decoration-line: underline;
+    }
+    @media (max-width:991px){
+        .topic-list .topicList-item{
+            width: 32%;
+        }
+    }
+    @media (max-width:551px){
+        .topic-list .topicList-item{
+            width: 48%;
+        }
+    }
+    .topic-container {
+        margin: 0 auto;
+        max-width: 1200px;
+    }
+    @media (min-width: 1200px)
+    .topic-container {
+        max-width: 1140px;
+    }
+    @media (min-width: 992px)
+    .topic-container {
+        max-width: 960px;
+    }
+    @media (min-width: 768px)
+    .topic-container {
+        max-width: 720px;
+    }
+    @media (min-width: 576px)
+    .topic-container {
+        max-width: 540px;
+    }
+    .topic-container {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+
+
+/*
+===================================================================================================
+*/
