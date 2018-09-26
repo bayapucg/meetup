@@ -242,7 +242,7 @@
 
 		<!-- category-section - start
 		================================================== -->
-		<section id="about-section2" class="about-section2 sec-ptb-100 bg-gray-light clearfix">
+		<section id="about-section2 categories" class="about-section2 sec-ptb-100 bg-gray-light clearfix">
 			<div class="container">
 
                 <div class="row">

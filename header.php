@@ -105,7 +105,7 @@
 												<div class="leftside-content">
 													<div class="site-logo-wrapper mb-80">
 														<a href="#!" class="logo">
-															<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+															<img src="assets/images/0.site-logo.png" alt="logo_not_found">
 														</a>
 													</div>
 													<div class="register-login-link mb-80">
@@ -113,9 +113,6 @@
 															<li><a href="#!">Login</a></li>
 															<li class="active"><a href="#!">Register</a></li>
 														</ul>
-													</div>
-													<div class="copyright-text">
-														<p class="m-0">©2018 <a href="#!" class="yellow-color">Harmoni.com</a> all right reserved, made with <i class="fas fa-heart"></i> by jThemes Studio </p>
 													</div>
 												</div>
 												<!-- leftside-content - end -->
@@ -149,7 +146,7 @@
 																	<img src="assets/images/iamnotrobot.png" alt="Image_not_found">
 																</span>
 															</div>
-															<button type="submit" class="login-btn">login now</button>
+															<button type="submit" class="login-btn">Register Now</button>
 														</form>
 													</div>
 
@@ -182,7 +179,7 @@
 												<div class="leftside-content">
 													<div class="site-logo-wrapper mb-80">
 														<a href="#!" class="logo">
-															<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+															<img src="assets/images/0.site-logo.png" alt="logo_not_found">
 														</a>
 													</div>
 													<div class="register-login-link mb-80">
@@ -190,9 +187,6 @@
 															<li class="active"><a href="#!">Login</a></li>
 															<li><a href="#!">Register</a></li>
 														</ul>
-													</div>
-													<div class="copyright-text">
-														<p class="m-0">©2018 <a href="#!" class="yellow-color">Harmoni.com</a> all right reserved, made with <i class="fas fa-heart"></i> by jThemes Studio </p>
 													</div>
 												</div>
 												<!-- leftside-content - end -->
@@ -445,7 +439,7 @@
 			<div class="container">
 				<div class="logo-area float-left">
 					<a href="index-1.html">
-						<img src="assets/images/1.site-logo.png" alt="logo_not_found">
+						<img src="assets/images/0.site-logo.png" alt="logo_not_found">
 					</a>
 				</div>
 
@@ -463,7 +457,7 @@
 
 					<div class="sidebar-header">
 						<a href="#!">
-							<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+							<img src="assets/images/0.site-logo.png" alt="logo_not_found">
 						</a>
 					</div>
 
@@ -629,7 +623,7 @@
 										<div class="leftside-content">
 											<div class="site-logo-wrapper mb-80">
 												<a href="#!" class="logo">
-													<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+													<img src="assets/images/0.site-logo.png" alt="logo_not_found">
 												</a>
 											</div>
 											<div class="register-login-link mb-80">
@@ -637,9 +631,6 @@
 													<li><a href="#!">Login</a></li>
 													<li class="active"><a href="#!">Register</a></li>
 												</ul>
-											</div>
-											<div class="copyright-text">
-												<p class="m-0">©2018 <a href="#!" class="yellow-color">Harmoni.com</a> all right reserved, made with <i class="fas fa-heart"></i> by jThemes Studio </p>
 											</div>
 										</div>
 										<!-- leftside-content - end -->
@@ -673,7 +664,7 @@
 															<img src="assets/images/iamnotrobot.png" alt="Image_not_found">
 														</span>
 													</div>
-													<button type="submit" class="login-btn">login now</button>
+													<button type="submit" class="login-btn">register now</button>
 												</form>
 											</div>
 
@@ -705,7 +696,7 @@
 										<div class="leftside-content">
 											<div class="site-logo-wrapper mb-80">
 												<a href="#!" class="logo">
-													<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+													<img src="assets/images/0.site-logo.png" alt="logo_not_found">
 												</a>
 											</div>
 											<div class="register-login-link mb-80">
@@ -713,9 +704,6 @@
 													<li class="active"><a href="#!">Login</a></li>
 													<li><a href="#!">Register</a></li>
 												</ul>
-											</div>
-											<div class="copyright-text">
-												<p class="m-0">©2018 <a href="#!" class="yellow-color">Harmoni.com</a> all right reserved, made with <i class="fas fa-heart"></i> by jThemes Studio </p>
 											</div>
 										</div>
 										<!-- leftside-content - end -->

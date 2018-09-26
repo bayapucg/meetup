@@ -66,7 +66,7 @@
 								<!-- site-logo-wrapper - start -->
 								<div class="site-logo-wrapper mb-30">
 									<a href="index.php" class="logo">
-										<img src="assets/images/1.site-logo.png" alt="Meetup">
+										<img src="assets/images/0.site-logo.png" alt="Meetup">
 									</a>
 								</div>
 								<!-- site-logo-wrapper - end -->
@@ -109,8 +109,8 @@
 									<strong>Your Account</strong>
 								</h3>
 								<ul>
-									<li><a href="#!">Log In</a></li>
-									<li><a href="#!">Sign Up</a></li>
+									<li><a href="#login-modal">Log In</a></li>
+									<li><a href="#register-modal">Sign Up</a></li>
 									<li><a href="faq.php">Help</a></li>
 								</ul>
 							</div>
@@ -128,7 +128,6 @@
 									<li><a href="#!">Meetup Pro</a></li>
 									<li><a href="careers.php">Careers</a></li>
 									<li><a href="contact.html">Contact</a></li>
-									<li><a href="#!">Apps</a></li>
 								</ul>
 							</div>
 						</div>
@@ -144,7 +143,7 @@
 									<li><a href="topics.php">Topics</a></li>
 									<li><a href="cities.php">Cities</a></li>
 									<li><a href="group-listing.php">Groups</a></li>
-									<li><a href="#!">Calendar</a></li>
+									<li><a href="event-listing.php">Events</a></li>
 								</ul>
 							</div>
 						</div>
@@ -201,6 +200,8 @@
 		<script src="assets/js/popper.min.js"></script>
 		<script src="assets/js/bootstrap.min.js"></script>
 
+        <script src="assets/js/create-meetup.js"></script>
+
 		<!-- carousel jquery include -->
 		<script src="assets/js/slick.min.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>
@@ -218,7 +219,7 @@
 		<script src="assets/js/jarallax.min.js"></script>
 		<script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
 		<script src="assets/js/lightcase.js"></script>
-
+		
 		<!-- gallery img loaded - jqury include -->
 		<script src="assets/js/imagesloaded.pkgd.min.js"></script>
 
