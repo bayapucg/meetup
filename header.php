@@ -276,106 +276,30 @@
 										<div class="menu-item-list ul-li clearfix">
 											<ul>
 												<li class="menu-item-has-children active">
-													<a href="#!">home</a>
-													<ul class="sub-menu">
-														<li class="menu-item-has-children">
-															<a href='index-1.html'>home v.1</a>
-															<ul class="sub-menu">
-																<li>
-																	<a href='#'>example v.1.1</a>
-																</li>
-																<li>
-																	<a href='#'>example v.1.2</a>
-																</li>
-																<li>
-																	<a href='#'>example v.1.3</a>
-																</li>
-																<li>
-																	<a href='#'>example v.1.4</a>
-																</li>
-															</ul>
-														</li>
-														<li class="menu-item-has-children">
-															<a href='index-2.html'>home v.2</a>
-															<ul class="sub-menu">
-																<li>
-																	<a href='#'>example v.2.1</a>
-																</li>
-																<li>
-																	<a href='#'>example v.2.2</a>
-																</li>
-																<li>
-																	<a href='#'>example v.2.3</a>
-																</li>
-															</ul>
-														</li>
-														<li class="menu-item-has-children">
-															<a href='index-3.html' class="active">home v.3</a>
-															<ul class="sub-menu">
-																<li>
-																	<a href='#'>example v.3.1</a>
-																</li>
-																<li>
-																	<a href='#'>example v.3.2</a>
-																</li>
-															</ul>
-														</li>
-														<li class="menu-item-has-children">
-															<a href='index-4.html'>home v.4</a>
-															<ul class="sub-menu">
-																<li>
-																	<a href='#'>example v.4.1</a>
-																</li>
-															</ul>
-														</li>
-													</ul>
+													<a href="index.php">home</a>
+													
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">about</a>
-													<ul class="sub-menu">
-														<li><a href="about.html">about us</a></li>
-														<li><a href='service.html'>service</a></li>
-														<li><a href='faq.html'>FAQ</a></li>
-													</ul>
+													<a href="about.php">about</a>
+													
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">events</a>
-													<ul class="sub-menu">
-														<li class="menu-item-has-children">
-															<a href='event-1.html'>event List</a>
-															<ul class="sub-menu">
-																<li><a href="event-1-without-sidebar.html">list without sidebar</a></li>
-															</ul>
-														</li>
-														<li class="menu-item-has-children">
-															<a href='event-2.html'>event Grid</a>
-															<ul class="sub-menu">
-																<li><a href="event-2-without-sidebar.html">grid without sidebar</a></li>
-															</ul>
-														</li>
-														<li><a href='event-details.html'>event details</a></li>
-														<li><a href='booking.html'>event booking</a></li>
-													</ul>
+													<a href="event-listing.php">events</a>
+													
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">blogs</a>
-													<ul class="sub-menu">
-														<li><a href='blog.html'>blog</a></li>
-														<li><a href='blog-details.html'>blog details</a></li>
-													</ul>
+													<a href="#">blogs</a>
+													
 												</li>
 												<li>
-													<a href="gallery.html">gallery</a>
+													<a href="group-listing.php">gallery</a>
 												</li>
 												<li>
-													<a href="speaker.html">speaker</a>
+													<a href="#">speaker</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">contact</a>
-													<ul class="sub-menu">
-														<li><a href="contact.html">contact us</a></li>
-														<li><a href='404-error.html'>404 Error</a></li>
-													</ul>
+													<a href="contact.php">contact</a>
+													
 												</li>
 											</ul>
 										</div>
@@ -387,7 +311,7 @@
 										<div class="user-search-btn-group ul-li clearfix">
 											<ul>
 												<li>
-													<a href="#!">
+													<a href="profile.php">
 														<i class="fas fa-user"></i>
 													</a>
 												</li>

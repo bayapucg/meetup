@@ -55,36 +55,45 @@
 				<div class="contact-form form-wrapper text-center">
 					<form action="http://jthemes.org/html/harmony-event/contact.php" method="post">
 						<div class="row">
+						<div class="col-md-6">
 
-							<div class="col-lg-6 col-md-6 col-sm-12">
+							<div class="">
 								<div class="form-item">
 									<input type="text" placeholder="Your Name" required>
 								</div>
 							</div>
 
-							<div class="col-lg-6 col-md-6 col-sm-12">
+							<div class="">
 								<div class="form-item">
 									<input type="email" placeholder="Email Address" required>
 								</div>
 							</div>
 
-							<div class="col-lg-6 col-md-6 col-sm-12">
+							<div class="">
 								<div class="form-item">
 									<input type="text" placeholder="Your Country" required>
 								</div>
 							</div>
 
-							<div class="col-lg-6 col-md-6 col-sm-12">
+							<div class="">
 								<div class="form-item">
 									<input type="tel" placeholder="Phone Number" required>
 								</div>
 							</div>
 
-							<div class="col-lg-12 col-md-12 col-sm-12">
+							<div class="">
 								<textarea placeholder="Your Message" required></textarea>
 								<button type="submit" class="custom-btn">send mail</button>
 							</div>
 							
+						</div>
+						<div class="col-md-6 text-left">
+						<h3>Meetup</h3>
+						<p>Contact Number : 85xxxxxxx9</p>
+						<p>Email ID : meetxx@gmail.com</p>
+						
+							<iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30884.089210476883!2d78.39609819323411!3d17.499699017256685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9188ffffffff%3A0x9ab8c5c20aa5ec5a!2sPracha+Technologies!5e0!3m2!1sen!2sin!4v1537964294069" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+						</div>
 						</div>
 					</form>
 				</div>
@@ -92,73 +101,7 @@
 
 			</div>
 		</section>
-		<!-- contact-section - end
-		================================================== -->
-
-
-
-
-
-		<!-- google map - start
-		================================================== -->
-		<section id="map-section" class="map-section clearfix">
-			<div class="address-wrapper">
-
-				<!-- address-info-topbar - start -->
-				<div class="address-info-topbar mb-30 clearfix">
-					<div class="address-info-left">
-						<h3 class="title-text">Meetup</h3>
-						<p class="m-0">
-							100 ft road, Near Cyber Towers,
-							Hitech City, Hyderabad,
-							Telangana, India
-						</p>
-					</div>
-
-					<div class="address-info-right">
-						<ul>
-							<li>
-								<button type="button">
-									<span class="icon"><i class="fas fa-street-view"></i></span>
-									<small>Direction</small>
-								</button>
-							</li>
-							<li>
-								<button type="button">
-									<span class="icon"><i class="fas fa-rss"></i></span>
-									<small>Save</small>
-								</button>
-							</li>
-						</ul>
-					</div>
-				</div>
-				<!-- address-info-topbar - end -->
-
-				<!-- address-info-bottombar - start -->
-				<div class="address-info-bottombar clearfix">
-					<div class="address-info-left">
-						<div class="rating-star">
-							<span class="rating-point">4.5</span>
-							<ul>
-								<li><i class="fas fa-star"></i></li>
-								<li><i class="fas fa-star"></i></li>
-								<li><i class="fas fa-star"></i></li>
-								<li><i class="fas fa-star"></i></li>
-								<li><i class="fas fa-star-half"></i></li>
-							</ul>
-						</div>
-						<p class="m-0">105 reviews</p>
-					</div>
-				</div>
-				<!-- address-info-bottombar - end -->
-					
-			</div>
-			<div id="google-map">
-				<div id="map" class="google-map-container"></div>
-			</div>
-		</section>
-		<!-- google map - end
-		================================================== -->
+	
 
 
 

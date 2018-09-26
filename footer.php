@@ -109,8 +109,8 @@
 									<strong>Your Account</strong>
 								</h3>
 								<ul>
-									<li><a href="#login-modal">Log In</a></li>
-									<li><a href="#register-modal">Sign Up</a></li>
+									<li><a href="#login-modal" class="login-modal-btn"	>Log In</a></li>
+									<li><a href="#register-modal" class="register-modal-btn">Sign Up</a></li>
 									<li><a href="faq.php">Help</a></li>
 								</ul>
 							</div>
