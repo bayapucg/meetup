@@ -1290,9 +1290,7 @@
 								</div>
 								<!-- section-title - end -->
 
-								<div id="google-map">
-									<div id="googleMaps" class="google-map-container"></div>
-								</div>
+								<iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30884.089210476883!2d78.39609819323411!3d17.499699017256685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9188ffffffff%3A0x9ab8c5c20aa5ec5a!2sPracha+Technologies!5e0!3m2!1sen!2sin!4v1537964294069" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 							</div>
 							<!-- map-wrapper - end -->

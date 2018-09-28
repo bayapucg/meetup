@@ -5,8 +5,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 		<title>Meetup</title>
 		<link rel="shortcut icon" href="assets/images/favicon.png">
@@ -31,7 +30,6 @@
 		<link rel="stylesheet" type="text/css" href="assets/css/calendar.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/lightcase.css">
 
-	
 		<link id="color_theme" rel="stylesheet" type="text/css" href="assets/css/colors/default.css">
 
 		<!-- custom css include -->
@@ -394,42 +392,15 @@
 					</div>
 					<!-- sidebar-form - end -->
 
-					<!-- main-pages-links - start -->
-					<div class="menu-link-list main-pages-links">
-						<h2 class="menu-title">all home pages</h2>
-						<ul>
-							<li>
-								<a href="index-1.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									Home V.1
-								</a>
-							</li>
-							<li>
-								<a href="index-2.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									Home V.2
-								</a>
-							</li>
-							<li class="active">
-								<a href="index-3.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									Home v.3
-								</a>
-							</li>
-							<li>
-								<a href="index-4.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									Home v.4
-								</a>
-							</li>
-						</ul>
-					</div>
-					<!-- main-pages-links - end -->
-
 					<!-- other-pages-links - start -->
 					<div class="menu-link-list other-pages-links">
-						<h2 class="menu-title">all single pages</h2>
 						<ul>
+							<li>
+								<a href="index.php">
+									<span class="icon"><i class="fas fa-home"></i></span>
+									Home
+								</a>
+							</li>
 							<li>
 								<a href="about.html">
 									<span class="icon"><i class="fas fa-home"></i></span>
@@ -437,100 +408,26 @@
 								</a>
 							</li>
 							<li>
-								<a href="service.html">
+								<a href="event-listing.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
-									our Services
+									events
 								</a>
 							</li>
 							<li>
-								<a href="event-1.html">
+								<a href="group-listing.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
-									event list
+									groups
 								</a>
 							</li>
 							<li>
-								<a href="event-2.html">
+								<a href="contact.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
-									event grid
-								</a>
-							</li>
-							<li>
-								<a href="event-1-without-sidebar.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									list without sidebar
-								</a>
-							</li>
-							<li>
-								<a href="event-2-without-sidebar.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									grid without sidebar
-								</a>
-							</li>
-							<li>
-								<a href="blog.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									Latest blogs
-								</a>
-							</li>
-							<li>
-								<a href="gallery.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									our gallery
-								</a>
-							</li>
-							<li>
-								<a href="speaker.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									event speakers
-								</a>
-							</li>
-							<li>
-								<a href="contact.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									contafffct us
+									contact us
 								</a>
 							</li>
 						</ul>
 					</div>
 					<!-- other-pages-links - end -->
-
-					<!-- inner-pages-links - start -->
-					<div class="menu-link-list inner-pages-links">
-						<h2 class="menu-title">all inner pages</h2>
-						<ul>
-							<li>
-								<a href="booking.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									event booking
-								</a>
-							</li>
-							<li>
-								<a href="event-details.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									event details
-								</a>
-							</li>
-							<li>
-								<a href='blog-details.html'>
-									<span class="icon"><i class="fas fa-home"></i></span>
-									blog details
-								</a>
-							</li>
-							<li>
-								<a href="faq.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									Frequently Ask Qusetion
-								</a>
-							</li>
-							<li>
-								<a href="404-error.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									404 error
-								</a>
-							</li>
-						</ul>
-					</div>
-					<!-- inner-pages-links - end -->
 
 					<!-- login-btn-group - start -->
 					<div class="login-btn-group">
@@ -697,7 +594,7 @@
 							</h3>
 							<h3 class="contact-info">
 								<i class="fas fa-envelope"></i>
-								info@harmoni.com
+								info@meetup.com
 							</h3>
 						</div>
 						<ul>
@@ -717,7 +614,6 @@
 								<a href="#!"><i class="fab fa-instagram"></i></a>
 							</li>
 						</ul>
-						<a href="contact.html" class="contact-btn">contact us</a>
 					</div>
 					<!-- social-links - end -->
 
