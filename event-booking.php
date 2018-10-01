@@ -12,7 +12,7 @@
 
 								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
-									<span class="sub-title">Meetup booking</span>
+									<span class="sub-title">Booking</span>
 									<h2 class="big-title">ticket <strong>booking</strong></h2>
 								</div>
 								<!-- breadcrumb-title - end -->

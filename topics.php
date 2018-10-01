@@ -37,7 +37,7 @@
                 <div class="topic-container">
                     <div class="topics-box">
                         <h2 class="topics-heading">All Cities in India</h2>
-                        <a href="group-listing.php" class="link topics-links">Find a Meetup Group near you</a>
+                        <a href="group-listing.php" class="link topics-links">Find a Group near you</a>
                     </div>
                 </div>
                 <hr>

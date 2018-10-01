@@ -107,7 +107,7 @@
                             </div>
                             <hr>
                             <div class="general-sub">
-                                <h4>Your Meetup Account</h4>
+                                <h4>Your Group Us Account</h4>
                                 <p><a href="#!" class="md-link">Deactivate your account</a></p>
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                                                 <tr>
                                                     <td>
                                                         <p>Weekly Calendar</p>
-                                                        <small>Send a list of my Meetups and Meetups near me</small>
+                                                        <small>Send a list of my events and events near me</small>
                                                     </td>
                                                     <td class="text-right">
 <div class="custom-control custom-checkbox mb-3">
@@ -168,8 +168,8 @@
                                                 </tr>
                                                 <tr>
                                                     <td>
-                                                        <p>New Meetup Groups</p>
-                                                        <small>Tell me about new Meetup Groups that match my interests</small>
+                                                        <p>New Groups</p>
+                                                        <small>Tell me about new Groups that match my interests</small>
                                                     </td>
                                                     <td class="text-right">
 <div class="custom-control custom-checkbox mb-3">
@@ -180,8 +180,8 @@
                                                 </tr>
                                                 <tr>
                                                     <td>
-                                                        <p>Updates from Meetup HQ</p>
-                                                        <small>Tell me about new features and important Meetup news</small>
+                                                        <p>Updates from Group Us HQ</p>
+                                                        <small>Tell me about new features and important Group Us news</small>
                                                     </td>
                                                     <td class="text-right">
 <div class="custom-control custom-checkbox mb-3">
@@ -192,8 +192,8 @@
                                                 </tr>
                                                 <tr>
                                                     <td>
-                                                        <p>Meetup HQ Surveys</p>
-                                                        <small>Ask me about things that could make Meetup better</small>
+                                                        <p>Group Us HQ Surveys</p>
+                                                        <small>Ask me about things that could make Group Us better</small>
                                                     </td>
                                                     <td class="text-right">
 <div class="custom-control custom-checkbox mb-3">
@@ -236,18 +236,18 @@
                                         <table class="table">
                                             <tbody>
                                                 <tr>
-                                                    <td>Who can contact you on Meetup?</td>
+                                                    <td>Who can contact you on Group Us?</td>
                                                     <td>
                                                         <select class="form-control">
                                                             <option selected="">Only Organizers</option>
-                                                            <option value="1">Members of my Meetups</option>
-                                                            <option value="2">Any Member of Meetup</option>
+                                                            <option value="1">Members of my Groups</option>
+                                                            <option value="2">Any Member of Group Us</option>
                                                         </select>
                                                     </td>
                                                 </tr><tr>
                                                     <td>
-                                                        <p>Show Meetup groups on profile</p>
-                                                        <small>On your profile, anyone can see all the Meetup groups you belong to.</small>
+                                                        <p>Show groups on profile</p>
+                                                        <small>On your profile, anyone can see all the groups you belong to.</small>
                                                     </td>
                                                     <td class="text-right">
 <div class="custom-control custom-checkbox mb-3">
@@ -283,7 +283,7 @@
                         <div class="tab-pane fade general" id="social-media" role="tabpanel">
                             <div class="general-sub">
                                 <h4>Follow me on</h4>
-                                <p>Check the boxes below to display your web links publicly on all your Meetup Group profiles.</p>
+                                <p>Check the boxes below to display your web links publicly on all your Group profiles.</p>
                                 <form action="" method="">
                                     <div class="table-responsive">
                                         <table class="table">
@@ -361,9 +361,9 @@
                             <div class="general-sub">
                                 <h4>Organizer Subscription</h4>
                                 <p>You currently don’t have a subscription</p>
-                                <p>We don’t want you to feel left out, but it looks like you’re not currently leading any Meetups. Lucky for you, it’s easy to start. Create your own Meetup group now to become an organizer and start building community.</p>
+                                <p>We don’t want you to feel left out, but it looks like you’re not currently leading any Group Us. Lucky for you, it’s easy to start. Create your own group now to become an organizer and start building community.</p>
                                 <div class="text-right">
-                                    <a href="create-meetup.php"><input type="submit" class="btn btn-save" value="Start a Meetup"></a>
+                                    <a href="create-meetup.php"><input type="submit" class="btn btn-save" value="Start a Group"></a>
                                 </div>
                             </div>
                         </div>

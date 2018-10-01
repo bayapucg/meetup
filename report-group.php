@@ -6,7 +6,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7">
                 <p class="report-reason-heading">
-                    Why are you reporting this Meetup group?
+                    Why are you reporting this group?
                 </p>
             </div>
         </div>
@@ -21,7 +21,7 @@
                             <input type="radio" name="report"/>Its photo is sexual, violent, or harmful
                         </li>
                         <li>
-                            <input type="radio" name="report"/>The Meetup description is hateful or graphic
+                            <input type="radio" name="report"/>The Group Us description is hateful or graphic
                         </li>
                         <li>
                             <input type="radio" name="report"/>The organizer will not let me join
@@ -30,22 +30,22 @@
                             <input type="radio" name="report"/>The focus is not on community
                         </li>
                         <li>
-                            <input type="radio" name="report"/>The Meetups are not in person
+                            <input type="radio" name="report"/>The Group Us are not in person
                         </li>
                         <li>
-                            <input type="radio" name="report"/>The Meetups are not accurately described
+                            <input type="radio" name="report"/>The Group Us are not accurately described
                         </li>
                         <li>
-                            <input type="radio" name="report"/>The Meetups are dangerous
+                            <input type="radio" name="report"/>The Group Us are dangerous
                         </li>
                         <li>
-                            <input type="radio" name="report"/>The Meetups solicit sex
+                            <input type="radio" name="report"/>The Group Us solicit sex
                         </li>
                         <li>
-                            <input type="radio" name="report"/>The Meetups provide licensed services (medical, psychological, financial, legal, etc.)
+                            <input type="radio" name="report"/>The Group Us provide licensed services (medical, psychological, financial, legal, etc.)
                         </li>
                         <li>
-                            <input type="radio" name="report"/>I don't think this group belongs on Meetup
+                            <input type="radio" name="report"/>I don't think this group belongs on Group Us
                         </li>
                     </ul>
                 </form>

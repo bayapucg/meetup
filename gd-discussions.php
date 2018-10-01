@@ -128,7 +128,7 @@
                             <div class="schedule-wrapper">
                                 <ul class="nav schedule-date-menu">
                                     <li><a href="group-details.php">About</a></li>
-                                    <li><a href="gd-meetups.php">Meetups</a></li>
+                                    <li><a href="gd-meetups.php">Events</a></li>
                                     <li><a href="gd-members.php">Members</a></li>
                                     <li><a href="gd-photos.php">Photos</a></li>
                                     <li><a class="active" data-toggle="tab" href="#discussions">Discussions</a></li>

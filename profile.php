@@ -18,7 +18,7 @@
                                 <p><a href="group-listing.php" class="md-link">Hyderabad</a></p>
                             </div>
                             <div class="col-lg-6">
-                                <p class="md-headings">Meetup Member Since</p>
+                                <p class="md-headings">Group Us Member Since</p>
                                 <p>July 4, 2017</p>
                             </div>
                             <div class="col-lg-12">
@@ -56,8 +56,8 @@
                         <div class="row mb-30 joined-group-list">
                             <div class="col-lg-12">
                                 <div class="text-left mb-15">
-                                    <h2 class="">Member of <span>5</span> Meetups</h2>
-                                    <p><a href="profile-edit.php" class="md-link">Hide Meetup groups on profile</a></p>
+                                    <h2 class="">Member of <span>5</span> groups</h2>
+                                    <p><a href="profile-edit.php" class="md-link">Hide groups on profile</a></p>
                                 </div> 
                             </div>
                             <div class="col-lg-6">

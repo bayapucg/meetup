@@ -12,7 +12,7 @@
 
 								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
-                                    <span class="sub-title">Meetup event</span>
+                                    <span class="sub-title">Group Us event</span>
 									<h2 class="big-title">event <strong> details</strong></h2>
 								</div>
 								<!-- breadcrumb-title - end -->

@@ -10,7 +10,7 @@
                         Reporting : <span> IoT, Electronics, Data Science & Cybersecurity - HYDERABAD</span>
                     </p>
                     <p class="report-final-sub-heading">
-                        Reason : <span> The Meetups are dangerous</span>
+                        Reason : <span> The Group Us are dangerous</span>
                     </p>
                 </div>
             </div>

@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7">
-                <h4 class="report-final-heading">Your Meetup Group profile</h4>
+                <h4 class="report-final-heading">Your Group profile</h4>
             </div>
         </div>
         <div class="row justify-content-center">

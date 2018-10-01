@@ -41,7 +41,7 @@
                 <div class="row">
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="section-title mb-30">
-                            <h1 class="topics-sub-heading">Meetups near you</h1>
+                            <h1 class="topics-sub-heading">Groups near you</h1>
                         </div>
 					</div>
 
@@ -128,7 +128,7 @@
                 <div class="row">
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="section-title mb-30">
-                            <h1 class="topics-sub-heading">Largest Acting Meetups</h1>
+                            <h1 class="topics-sub-heading">Largest Acting Groups</h1>
                         </div>
 					</div>
 
@@ -216,7 +216,7 @@
                 <div class="row">
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="section-title mb-30">
-                            <h1 class="topics-sub-heading">Newest Acting Meetups</h1>
+                            <h1 class="topics-sub-heading">Newest Acting Groups</h1>
                         </div>
 					</div>
 

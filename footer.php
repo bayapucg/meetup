@@ -33,8 +33,8 @@
 												<i class="fas fa-envelope"></i>
 											</span>
 											<div class="info-content">
-												<p><a href="#!">carrer@meetup.com</a></p>
-												<h3><a href="#!">info@meetup.com</a></h3>
+												<p><a href="#!">carrer@groupus.com</a></p>
+												<h3><a href="#!">info@groupus.com</a></h3>
 											</div>
 										</div>
 									</div>
@@ -66,13 +66,13 @@
 								<!-- site-logo-wrapper - start -->
 								<div class="site-logo-wrapper mb-30">
 									<a href="index.php" class="logo">
-										<img src="assets/images/0.site-logo.png" alt="Meetup">
+										<img src="assets/images/0.site-logo.png" alt="Group Us">
 									</a>
 								</div>
 								<!-- site-logo-wrapper - end -->
 
 								<p class="mb-30">
-									Getting together with real people in real life makes powerful things happen. Meetup brings people together to create thriving communities.
+									Getting together with real people in real life makes powerful things happen. Group Us brings people together to create thriving communities.
 								</p>
 
 								<!-- social-links - start -->
@@ -121,11 +121,11 @@
 						<div class="col-lg-3 col-md-6 col-sm-12">
 							<div class="usefullinks-wrapper ul-li-block">
 								<h3 class="footer-item-title">
-									<strong>Meetup</strong>
+									<strong>Group Us</strong>
 								</h3>
 								<ul>
 									<li><a href="about.html">About</a></li>
-									<li><a href="#!">Meetup Pro</a></li>
+									<li><a href="#!">Group Us Pro</a></li>
 									<li><a href="careers.php">Careers</a></li>
 									<li><a href="contact.html">Contact</a></li>
 								</ul>
@@ -161,7 +161,7 @@
 						<!-- copyright-text - start -->
 						<div class="col-lg-7 col-md-12 col-sm-12">
 							<div class="copyright-text">
-								<p class="m-0">©2018 <a href="#!" class="site-link">Meetup.com</a> all right reserved</p>
+								<p class="m-0">©2018 <a href="#!" class="site-link">GroupUs.com</a> all right reserved</p>
 							</div>
 						</div>
 						<!-- copyright-text - end -->

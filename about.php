@@ -13,7 +13,7 @@
 								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
 									<span class="sub-title">all you need to know</span>
-									<h2 class="big-title"><strong>about</strong> meetup</h2>
+									<h2 class="big-title"><strong>about</strong> group us</h2>
 								</div>
 								<!-- breadcrumb-title - end -->
 
@@ -48,8 +48,8 @@
                     <div class="col-lg-12 col-md-12 col-sm-12">
 						<div class="section-title mb-50">
                             <span class="line-style"></span>
-							<small class="sub-title">we are meetup</small>
-							<h2 class="big-title"><strong>meetup</strong> Changing lives</h2>
+							<small class="sub-title">we are group us</small>
+							<h2 class="big-title"><strong>group us</strong> Changing lives</h2>
 						</div>
 					</div>
 					
@@ -122,9 +122,9 @@
 					<!-- special-offer-content - start -->
 					<div class="col-lg-7 col-md-12 col-sm-12">
 						<div class="special-offer-content">
-							<h2><span>Find all Meetup's</span></h2>
+							<h2><span>Find all groups's</span></h2>
 							<p class="m-0">
-								Discover local Meetups for all the things you love.
+								Discover local groups for all the things you love.
 							</p>
 						</div>
 					</div>
@@ -133,7 +133,7 @@
 					<!-- event-makeing-btn - start -->
 					<div class="col-lg-3 col-md-12 col-sm-12">
 						<div class="event-makeing-btn">
-							<a href="event-listing.php">See All</a>
+							<a href="group-listing.php">See All</a>
 						</div>
 					</div>
 					<!-- event-makeing-btn - end -->
@@ -290,9 +290,9 @@
 					<!-- special-offer-content - start -->
 					<div class="col-lg-7 col-md-12 col-sm-12">
 						<div class="special-offer-content">
-							<h2><span>Create a Meetup</span></h2>
+							<h2><span>Create a Group</span></h2>
 							<p class="m-0">
-								Create your own Meetup, and draw from a community of millions.
+								Create your own Group, and draw from a community of millions.
 							</p>
 						</div>
 					</div>
@@ -301,7 +301,7 @@
 					<!-- event-makeing-btn - start -->
 					<div class="col-lg-3 col-md-12 col-sm-12">
 						<div class="event-makeing-btn">
-							<a href="create-meetup.php">create a meetup now</a>
+							<a href="create-meetup.php">create a group now</a>
 						</div>
 					</div>
 					<!-- event-makeing-btn - end -->

@@ -14,7 +14,7 @@
                         </ul>
                         <div id="cm-fieldsets">
                             <fieldset class="cm-current">
-                                <label>What's your new Meetup Group's hometown?</label>
+                                <label>What's your new Group hometown?</label>
                                 <select class="form-control">
                                     <option selected="">Hyderabad</option>
                                     <option value="1">Mumbai</option>
@@ -23,7 +23,7 @@
                                 </select>
                             </fieldset>
                             <fieldset class="next">
-                                <label>What will your Meetup be about?</label>
+                                <label>What will your Group be about?</label>
                                 <select class="form-control" multiple>
                                     <option selected="">Arts</option>
                                     <option value="1">Book Clubs</option>
@@ -33,13 +33,13 @@
                                 <p class="cm-note">*Note : Press ctrl to select multiple topics</p>
                             </fieldset>
                             <fieldset class="next">
-                                <label>What will your Meetup's name be?</label>
+                                <label>What will your Group name be?</label>
                                 <input type="text" class="form-control">
-                                <label>Describe who should join, and what your Meetup will do.</label>
+                                <label>Describe who should join, and what your Group will do.</label>
                                 <textarea class="required"></textarea>
                             </fieldset>
                             <fieldset class="next">
-                                <label>What it means to be a Meetup</label>
+                                <label>What it means to be a Group</label>
                                 <ul>
                                     <li>Real, in-person conversations</li>
                                     <li>Open and honest intentions</li>

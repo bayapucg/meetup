@@ -15,7 +15,7 @@
                     <ul>
                         <li><a href="group-details.php">About</a></li>
                         <li><a href="gd-members.php">Members</a></li>
-                        <li><a href="gd-meetups.php">Meetups</a></li>
+                        <li><a href="gd-meetups.php">Events</a></li>
                         <li><a href="gd-discussions.php">Discussions</a></li>
                         <li><a href="gd-photos.php">Photos</a></li>
                         <li><a href="gd-calendar.php">Calendar</a></li>
@@ -32,7 +32,7 @@
                     <div class="comment-review">
                         <form id="" action="" method="" class="report-reason-form">
                             <div class="form-group">
-                                <label>Review the Meetup Group. What do you think about us?</label>
+                                <label>Review the Group. What do you think about us?</label>
                                 <textarea rows="3" cols="5" class="form-control"></textarea>
                             </div>
                         </form>

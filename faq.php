@@ -13,7 +13,7 @@
 								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
 									<span class="sub-title">we help you</span>
-									<h2 class="big-title">meetup <strong>FAQ</strong></h2>
+									<h2 class="big-title">Group Us <strong>FAQ</strong></h2>
 								</div>
 								<!-- breadcrumb-title - end -->
 
@@ -65,14 +65,14 @@
 								<div class="card">
 									<div class="card-header" id="headingone">
 										<button class="btn collapsed" data-toggle="collapse" data-target="#collapseone" aria-expanded="true" aria-controls="collapseone">
-											<span>01.</span> How to join Meetup?
+											<span>01.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapseone" class="collapse" aria-labelledby="headingone" data-parent="#faq-accordion">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -86,7 +86,7 @@
 									<div id="collapsetwo" class="collapse show" aria-labelledby="headingtwo" data-parent="#faq-accordion">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -100,7 +100,7 @@
 									<div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#faq-accordion">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -114,7 +114,7 @@
 									<div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#faq-accordion">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -130,14 +130,14 @@
 								<div class="card">
 									<div class="card-header" id="headingfive">
 										<button class="btn" data-toggle="collapse" data-target="#collapsfive" aria-expanded="true" aria-controls="collapsfive">
-											<span>05.</span> How to join Meetup?
+											<span>05.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapsfive" class="collapse show" aria-labelledby="headingfive" data-parent="#faq-accordion2">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -151,7 +151,7 @@
 									<div id="collapsesix" class="collapse" aria-labelledby="headingsix" data-parent="#faq-accordion2">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -165,7 +165,7 @@
 									<div id="collapseseven" class="collapse" aria-labelledby="headingseven" data-parent="#faq-accordion2">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -179,7 +179,7 @@
 									<div id="collapseeight" class="collapse" aria-labelledby="headingeight" data-parent="#faq-accordion2">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -214,14 +214,14 @@
 								<div class="card">
 									<div class="card-header" id="headingnine">
 										<button class="btn collapsed" data-toggle="collapse" data-target="#collapsenine" aria-expanded="true" aria-controls="collapsenine">
-											<span>01.</span> How to join Meetup?
+											<span>01.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapsenine" class="collapse" aria-labelledby="headingnine" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -235,7 +235,7 @@
 									<div id="collapseten" class="collapse show" aria-labelledby="headingten" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -249,7 +249,7 @@
 									<div id="collapseeleven" class="collapse" aria-labelledby="headingeleven" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -263,7 +263,7 @@
 									<div id="collapsetwelve" class="collapse" aria-labelledby="headingtwelve" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -279,14 +279,14 @@
 								<div class="card">
 									<div class="card-header" id="headingthirteen">
 										<button class="btn" data-toggle="collapse" data-target="#collapsthirteen" aria-expanded="true" aria-controls="collapsthirteen">
-											<span>05.</span> How to join Meetup?
+											<span>05.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapsthirteen" class="collapse show" aria-labelledby="headingthirteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -300,7 +300,7 @@
 									<div id="collapsefourteen" class="collapse" aria-labelledby="headingfourteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -314,7 +314,7 @@
 									<div id="collapsefifteen" class="collapse" aria-labelledby="headingfifteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -328,7 +328,7 @@
 									<div id="collapsesixteen" class="collapse" aria-labelledby="headingsixteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -362,14 +362,14 @@
 								<div class="card">
 									<div class="card-header" id="headingnine">
 										<button class="btn collapsed" data-toggle="collapse" data-target="#collapsenine" aria-expanded="true" aria-controls="collapsenine">
-											<span>01.</span> How to join Meetup?
+											<span>01.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapsenine" class="collapse" aria-labelledby="headingnine" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -383,7 +383,7 @@
 									<div id="collapseten" class="collapse show" aria-labelledby="headingten" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -397,7 +397,7 @@
 									<div id="collapseeleven" class="collapse" aria-labelledby="headingeleven" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -411,7 +411,7 @@
 									<div id="collapsetwelve" class="collapse" aria-labelledby="headingtwelve" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -427,14 +427,14 @@
 								<div class="card">
 									<div class="card-header" id="headingthirteen">
 										<button class="btn" data-toggle="collapse" data-target="#collapsthirteen" aria-expanded="true" aria-controls="collapsthirteen">
-											<span>05.</span> How to join Meetup?
+											<span>05.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapsthirteen" class="collapse show" aria-labelledby="headingthirteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -448,7 +448,7 @@
 									<div id="collapsefourteen" class="collapse" aria-labelledby="headingfourteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -462,7 +462,7 @@
 									<div id="collapsefifteen" class="collapse" aria-labelledby="headingfifteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -476,7 +476,7 @@
 									<div id="collapsesixteen" class="collapse" aria-labelledby="headingsixteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -510,14 +510,14 @@
 								<div class="card">
 									<div class="card-header" id="headingnine">
 										<button class="btn collapsed" data-toggle="collapse" data-target="#collapsenine" aria-expanded="true" aria-controls="collapsenine">
-											<span>01.</span> How to join Meetup?
+											<span>01.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapsenine" class="collapse" aria-labelledby="headingnine" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -531,7 +531,7 @@
 									<div id="collapseten" class="collapse show" aria-labelledby="headingten" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -545,7 +545,7 @@
 									<div id="collapseeleven" class="collapse" aria-labelledby="headingeleven" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -559,7 +559,7 @@
 									<div id="collapsetwelve" class="collapse" aria-labelledby="headingtwelve" data-parent="#faq-accordion3">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -575,14 +575,14 @@
 								<div class="card">
 									<div class="card-header" id="headingthirteen">
 										<button class="btn" data-toggle="collapse" data-target="#collapsthirteen" aria-expanded="true" aria-controls="collapsthirteen">
-											<span>05.</span> How to join Meetup?
+											<span>05.</span> How to join Group Us?
 										</button>
 									</div>
 
 									<div id="collapsthirteen" class="collapse show" aria-labelledby="headingthirteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -596,7 +596,7 @@
 									<div id="collapsefourteen" class="collapse" aria-labelledby="headingfourteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -610,7 +610,7 @@
 									<div id="collapsefifteen" class="collapse" aria-labelledby="headingfifteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>
@@ -624,7 +624,7 @@
 									<div id="collapsesixteen" class="collapse" aria-labelledby="headingsixteen" data-parent="#faq-accordion4">
 										<div class="card-body">
 											<h3>answer</h3>
-											Bring people together, or turn your passion into a business. Meetup gives you everything you need to host your best event yet. lorem ipsum diamet.
+											Bring people together, or turn your passion into a business. Group Us gives you everything you need to host your best event yet. lorem ipsum diamet.
 										</div>
 									</div>
 								</div>

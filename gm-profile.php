@@ -15,7 +15,7 @@
                     <ul>
                         <li><a href="group-details.php">About</a></li>
                         <li><a href="gd-members.php">Members</a></li>
-                        <li><a href="gd-meetups.php">Meetups</a></li>
+                        <li><a href="gd-meetups.php">Events</a></li>
                         <li><a href="gd-discussions.php">Discussions</a></li>
                         <li><a href="gd-photos.php">Photos</a></li>
                         <li><a href="gd-calendar.php">Calendar</a></li>
@@ -62,7 +62,7 @@
                         </div>
                         <div class="row mb-30">
                             <div class="col-md-12">
-                                <p class="md-headings">What you are saying about this Meetup Group</p>
+                                <p class="md-headings">What you are saying about this Group</p>
                                 <div class="gd-links ul-li clearfix">
                                 <ul>
                                     <li>

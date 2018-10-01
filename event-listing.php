@@ -14,7 +14,7 @@
 
 								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
-                                    <span class="sub-title">Meetup event</span>
+                                    <span class="sub-title">Group Us event</span>
 									<h2 class="big-title">event <strong>listing</strong></h2>
 								</div>
 								<!-- breadcrumb-title - end -->
@@ -50,7 +50,7 @@
 					<!-- section-title - start -->
 					<div class="col-lg-4 col-md-12 col-sm-12">
 						<div class="section-title">
-							<small class="sub-title">Find best event on Meetup</small>
+							<small class="sub-title">Find best event on Group Us</small>
 							<h2 class="big-title">event <strong>Search</strong></h2>
 						</div>
 					</div>

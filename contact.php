@@ -47,7 +47,7 @@
 				<!-- section-title - start -->
 				<div class="section-title mb-50">
 					<small class="sub-title">contact us</small>
-					<h2 class="big-title">Keep in touch <strong>with meetup</strong></h2>
+					<h2 class="big-title">Keep in touch <strong>with group us</strong></h2>
 				</div>
 				<!-- section-title - end -->
 
@@ -88,7 +88,7 @@
 							
 						</div>
 						<div class="col-md-6 text-left">
-						<h3>Meetup</h3>
+						<h3>Group Us</h3>
 						<p>Contact Number : 85xxxxxxx9</p>
 						<p>Email ID : meetxx@gmail.com</p>
 						

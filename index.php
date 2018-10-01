@@ -12,9 +12,9 @@
 							<div class="col-lg-8">
 								<div class="slider-content">
 									<h1 class="title-text bold-text">
-										What do you love?
+										Relu on Us?
 									</h1>
-									<p class="norm-text">Do more of it with meetup</p>
+									<p class="norm-text">we get better deals for you</p>
 									<a href="#!" class="custom-btn">Sign Up</a>		
 								</div>
 							</div>
@@ -32,9 +32,9 @@
 							<div class="col-lg-8">
 								<div class="slider-content">
 									<h1 class="title-text bold-text">
-										What do you love?
+										Relu on Us?
 									</h1>
-									<p class="norm-text">Do more of it with meetup</p>
+									<p class="norm-text">we get better deals for you</p>
 									<a href="#!" class="custom-btn">Sign Up</a>	
 								</div>
 							</div>
@@ -52,9 +52,9 @@
 							<div class="col-lg-8">
 								<div class="slider-content">
 									<h1 class="title-text bold-text">
-										What do you love?
+										Relu on Us?
 									</h1>
-									<p class="norm-text">Do more of it with meetup</p>
+									<p class="norm-text">we get better deals for you</p>
 									<a href="#!" class="custom-btn">Sign Up</a>	
 								</div>
 							</div>
@@ -74,6 +74,7 @@
 
 		<!-- absolute-eventmake-section - start
 		================================================== -->
+<!--
 		<div id="absolute-eventmake-section" class="absolute-eventmake-section sec-ptb-100 bg-gray-light clearfix">
 			<div class="eventmaking-wrapper">
 
@@ -233,6 +234,7 @@
 				
 			</div>
 		</div>
+-->
 		<!-- absolute-eventmake-section - end
 		================================================== -->
 
@@ -262,31 +264,32 @@
 						<li>
 							<a href="group-listing.php">
 								<span class="icon">
-									<i class="flaticon-handshake"></i>
+									<i class="fas fa-female"></i>
 								</span>
-								<strong class="title-text">Arts</strong>
+								<strong class="title-text">fashion & Beauty</strong>
 								<small class="sub-title">more than 200 groups</small>
 							</a>
 						</li>
 						<li>
 							<a href="group-listing.php">
 								<span class="icon">
-									<i class="flaticon-two-balloons"></i>
+									<i class="fas fa-car"></i>
 								</span>
-								<strong class="title-text">Book Clubs</strong>
+								<strong class="title-text">Automobile</strong>
 								<small class="sub-title">more than 200 groups</small>
 							</a>
 						</li>
 						<li>
 							<a href="group-listing.php">
 								<span class="icon">
-									<i class="flaticon-cheers"></i>
+									<i class="fas fa-globe"></i>
 								</span>
-								<strong class="title-text">Career & Business </strong>
+								<strong class="title-text">Reality</strong>
 								<small class="sub-title">more than 200 groups</small>
 							</a>
 						</li>
 
+<!--
 						<li>
 							<a href="group-listing.php">
 								<span class="icon">
@@ -305,6 +308,8 @@
 								<small class="sub-title">more than 200 groups</small>
 							</a>
 						</li>
+-->
+<!--
 						<li>
 							<a href="group-listing.php">
 								<span class="icon">
@@ -479,6 +484,7 @@
 								<small class="sub-title">more than 200 groups</small>
 							</a>
 						</li>
+-->
 					</ul>
 				</div>
 
@@ -500,9 +506,9 @@
 					<!-- special-offer-content - start -->
 					<div class="col-lg-7 col-md-12 col-sm-12">
 						<div class="special-offer-content">
-							<h2><span>Find all Meetup's</span></h2>
+							<h2><span>Find all Group's</span></h2>
 							<p class="m-0">
-								Discover local Meetups for all the things you love.
+								Discover local Groups for all the things you love.
 							</p>
 						</div>
 					</div>
@@ -511,7 +517,7 @@
 					<!-- event-makeing-btn - start -->
 					<div class="col-lg-3 col-md-12 col-sm-12">
 						<div class="event-makeing-btn">
-							<a href="event-listing.php">See All</a>
+							<a href="group-listing.php">See All</a>
 						</div>
 					</div>
 					<!-- event-makeing-btn - end -->
@@ -538,8 +544,8 @@
 						<div class="col-lg-5 col-md-12 col-sm-12">
 							<div class="section-title text-left">
 								<span class="line-style"></span>
-								<small class="sub-title">our latest meetup's</small>
-								<h2 class="big-title"><strong>Upcoming </strong> meetups</h2>
+								<small class="sub-title">our latest event's</small>
+								<h2 class="big-title"><strong>Upcoming </strong> events</h2>
 							</div>
 						</div>
 						<!-- section-title - end -->
@@ -1352,9 +1358,9 @@
 					<!-- special-offer-content - start -->
 					<div class="col-lg-7 col-md-12 col-sm-12">
 						<div class="special-offer-content">
-							<h2><span>Create a Meetup</span></h2>
+							<h2><span>Create a Group</span></h2>
 							<p class="m-0">
-								Create your own Meetup, and draw from a community of millions.
+								Create your own Group, and draw from a community of millions.
 							</p>
 						</div>
 					</div>
@@ -1363,7 +1369,7 @@
 					<!-- event-makeing-btn - start -->
 					<div class="col-lg-3 col-md-12 col-sm-12">
 						<div class="event-makeing-btn">
-							<a href="create-meetup.php">create a meetup now</a>
+							<a href="create-meetup.php">create a group now</a>
 						</div>
 					</div>
 					<!-- event-makeing-btn - end -->
@@ -1388,7 +1394,7 @@
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="section-title mb-50">
                             <span class="line-style"></span>
-							<small class="sub-title">our meetup groups</small>
+							<small class="sub-title">our groups</small>
 							<h2 class="big-title"><strong>Most Popular</strong> Groups</h2>
 						</div>
 					</div>

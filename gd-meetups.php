@@ -128,7 +128,7 @@
                             <div class="schedule-wrapper">
                                 <ul class="nav schedule-date-menu">
                                     <li><a href="group-details.php">About</a></li>
-                                    <li><a class="active" data-toggle="tab" href="#meetups">Meetups</a></li>
+                                    <li><a class="active" data-toggle="tab" href="#meetups">Events</a></li>
                                     <li><a href="gd-members.php">Members</a></li>
                                     <li><a href="gd-photos.php">Photos</a></li>
                                     <li><a href="gd-discussions.php">Discussions</a></li>
@@ -165,8 +165,8 @@
                                     <!-- schedule-wrapper - start -->
                                     <div class="schedule-wrapper">
                                         <ul class="nav schedule-date-menu justify-content-center">
-                                            <li><a class="active" data-toggle="tab" href="#upcoming-meetups">Upcoming Meetups</a></li>
-                                            <li><a data-toggle="tab" href="#past-meetups">Past Meetups</a></li>
+                                            <li><a class="active" data-toggle="tab" href="#upcoming-meetups">Upcoming Events</a></li>
+                                            <li><a data-toggle="tab" href="#past-meetups">Past Events</a></li>
                                         </ul>
                                         <div class="tab-content">
 

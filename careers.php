@@ -12,7 +12,7 @@
 								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
 									<span class="sub-title">Come work with us</span>
-									<h2 class="big-title">work at <strong>meetup</strong></h2>
+									<h2 class="big-title">work at <strong>group us</strong></h2>
 								</div>
 								<!-- breadcrumb-title - end -->
 
@@ -92,7 +92,7 @@
                                                 <li>- Maxime, aliquam, unde! Suscipit, libero.</li>
                                                 <li>- Ipsam nostrum repellendus nihil molestiae.</li>
                                             </ul>
-                                            <p>Send your resume to careers@meetup.com</p>
+                                            <p>Send your resume to careers@groupus.com</p>
 										</div>
 									</div>
 								</div>
@@ -125,7 +125,7 @@
                                                 <li>- Maxime, aliquam, unde! Suscipit, libero.</li>
                                                 <li>- Ipsam nostrum repellendus nihil molestiae.</li>
                                             </ul>
-                                            <p>Send your resume to careers@meetup.com</p>
+                                            <p>Send your resume to careers@groupus.com</p>
 										</div>
 									</div>
 								</div>
@@ -158,7 +158,7 @@
                                                 <li>- Maxime, aliquam, unde! Suscipit, libero.</li>
                                                 <li>- Ipsam nostrum repellendus nihil molestiae.</li>
                                             </ul>
-                                            <p>Send your resume to careers@meetup.com</p>
+                                            <p>Send your resume to careers@groupus.com</p>
 										</div>
 									</div>
 								</div>
@@ -191,7 +191,7 @@
                                                 <li>- Maxime, aliquam, unde! Suscipit, libero.</li>
                                                 <li>- Ipsam nostrum repellendus nihil molestiae.</li>
                                             </ul>
-                                            <p>Send your resume to careers@meetup.com</p>
+                                            <p>Send your resume to careers@groupus.com</p>
 										</div>
 									</div>
 								</div>
@@ -224,7 +224,7 @@
 						<div class="section-title mb-50 sr-fade1">
 							<span class="line-style"></span>
 							<small class="sub-title">why choose us</small>
-							<h2 class="big-title">Meetup <strong>Advantages</strong></h2>
+							<h2 class="big-title">Group Us <strong>Advantages</strong></h2>
 						</div>
 					</div>
 				</div>

@@ -128,7 +128,7 @@
                             <div class="schedule-wrapper">
                                 <ul class="nav schedule-date-menu">
                                     <li><a class="active" data-toggle="tab" href="#about">About</a></li>
-                                    <li><a href="gd-meetups.php">Meetups</a></li>
+                                    <li><a href="gd-meetups.php">Events</a></li>
                                     <li><a href="gd-members.php">Members</a></li>
                                     <li><a href="gd-photos.php">Photos</a></li>
                                     <li><a href="gd-discussions.php">Discussions</a></li>
@@ -205,7 +205,7 @@
                                             <div class="col-lg-4 col-md-12 col-sm-12">
                                                 <div class="sidebar-section">
                                                     <div class="mb-30">
-                                                        <h2 class="">Upcoming <strong>Meetups</strong></h2>
+                                                        <h2 class="">Upcoming <strong>Events</strong></h2>
                                                     </div>
                                                     <!-- spacial-event-wrapper - start -->
                                                     <div class="spacial-event-wrapper text-center" style="background-image: url(assets/images/spacial-event-bg.jpg);">
@@ -234,7 +234,7 @@
                                                 <br>
                                                 <div class="sidebar-section">
                                                     <div class="mb-30">
-                                                        <h2 class="">Past <strong>Meetups</strong></h2>
+                                                        <h2 class="">Past <strong>Events</strong></h2>
                                                     </div>
                                                     <!-- spacial-event-wrapper - start -->
                                                     <div class="spacial-event-wrapper text-center" style="background-image: url(assets/images/spacial-event-bg.jpg);">

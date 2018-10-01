@@ -16,7 +16,7 @@
 
 							<div class="section-title text-left mb-50">
 								<h2 class="big-title"><strong>Select</strong> your subscription plan</h2>
-                                <p class="mt-15">Choose the plan that's best for Self-Improvement Meetup. We'll promote your Meetup to members near you and offer support 7 days a week.</p>
+                                <p class="mt-15">Choose the plan that's best for Self-Improvement Group. We'll promote your Group to members near you and offer support 7 days a week.</p>
 							</div>
 
 							<div class="pricing-list ul-li clearfix">
