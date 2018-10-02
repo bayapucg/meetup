@@ -1,7 +1,5 @@
 <?php include("header.php"); ?>
-
-
-		<!-- breadcrumb-section - start
+<!-- breadcrumb-section - start
 		================================================== -->
 		<section id="breadcrumb-section" class="breadcrumb-section clearfix">
 			<div class="jarallax" style="background-image: url(assets/images/breadcrumb/0.breadcrumb-bg.jpg);">
