@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <form id="cm-tabs-form" action="paid-services.php" method="">
+                    <form id="cm-tabs-form" action="group-edit.php" method="">
                         <ul id="cm-section-tabs">
                             <li class="cm-current active"><span>1.</span>Location</li>
                             <li><span>2.</span> Topic</li>
@@ -47,8 +47,8 @@
                                     <li>Put your members first</li>
                                 </ul>
                             </fieldset>
-                            <a class="btn" id="cm-next-tab">Next Section ▷</a>
-                            <a href="paid-services.php"><input type="submit" class="btn" value="Agree & Continue"></a>
+                            <input type="button" class="btn" id="cm-next-tab" value="Next Section ▷">
+                            <input type="submit" class="btn" value="Agree & Continue">
                         </div>
                     </form>
                 </div>

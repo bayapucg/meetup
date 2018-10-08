@@ -267,7 +267,7 @@
                             <div class="row">
 
                                 <!-- menu-item-list - start -->
-                                <div class="col-lg-10">
+                                <div class="col-lg-9">
                                     <div class="menu-item-list ul-li clearfix">
                                         <ul>
                                             <li class="menu-item-has-children active">
@@ -295,14 +295,10 @@
                                 <!-- menu-item-list - end -->
 
                                 <!-- menu-item-list - start -->
-                                <div class="col-lg-2">
+                                <div class="col-lg-3">
                                     <div class="user-search-btn-group ul-li clearfix">
                                         <ul>
-                                            <li>
-                                                <a href="profile.php">
-                                                    <i class="fas fa-user"></i>
-                                                </a>
-                                            </li>
+                                            
                                             <li>
                                                 <button type="button" class="toggle-overlay search-btn">
                                                     <i class="fas fa-search"></i>
@@ -322,6 +318,24 @@
                                                 </div>
                                                 <!-- search-body - end -->
                                             </li>
+                                            <li class="menu-item-has-children">
+                                                <a href="#!">
+                                                    <img src="assets/images/speaker/speakes-thumbnail.png">
+                                                    <span>John Deo</span>
+                                                </a>
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <a href='profile.php'>My profile</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href='profile-edit.php'>Settings</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href='#'>Sign Out</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            
                                         </ul>
                                     </div>
                                 </div>
