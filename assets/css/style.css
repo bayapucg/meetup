@@ -1080,18 +1080,23 @@ button {
     display: table;
 }
 
-.default-header-section .header-bottom .user-search-btn-group ul li {
+.default-header-section .header-bottom .user-search-btn-group ul li:first-child {
     width: 40px;
     height: 40px;
     text-align: center;
     margin-right: 10px;
 }
 
+.default-header-section .header-bottom .user-search-btn-group ul li:last-child img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
 .default-header-section .header-bottom .user-search-btn-group ul li:last-child {
     margin-right: 0px;
 }
 
-.default-header-section .header-bottom .user-search-btn-group ul li > a,
 .default-header-section .header-bottom .user-search-btn-group ul li > button {
     width: 100%;
     height: 100%;
@@ -1102,10 +1107,120 @@ button {
     background-color: #f0f0f0;
 }
 
-.default-header-section .header-bottom .user-search-btn-group ul li:hover > a,
 .default-header-section .header-bottom .user-search-btn-group ul li:hover > button {
     color: #ffffff;
+    background-color: #ffbe30!important;
+}
+
+.default-header-section .header-bottom .user-search-btn-group ul li > a{
+    color: #000;
+}
+
+.default-header-section .header-bottom .user-search-btn-group ul li > a{
+    color: #000;
+}
+
+.default-header-section .header-bottom .user-search-btn-group ul li:hover > a{
+    color: #ffbe30;
+    background-color: #ffffff!important;
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children > a:before {
+    left: 0;
+    right: 0;
+    opacity: 0;
+    content: '';
+    width: 60%;
+    height: 3px;
+    bottom: -40px;
+    left: 37%;
+    position: absolute;
+    -webkit-transform: scale(0.3);
+    -ms-transform: scale(0.3);
+    transform: scale(0.3);
     background-color: #ffbe30;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children:hover > a:before {
+    opacity: 1;
+    bottom: -30px;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children .sub-menu {
+    left: 50%;
+    top: 46px;
+    z-index: 1;
+    opacity: 0;
+    height: auto;
+    min-width: 180px;
+    visibility: hidden;
+    padding-top: 38px;
+    position: absolute;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children .sub-menu:after {
+    top: 38px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    content: '';
+    position: absolute;
+    -webkit-box-shadow: 0 5px 8px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 8px 2px rgba(0, 0, 0, 0.1);
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children .sub-menu > li {
+    width: 100%;
+    height: 40px;
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    background-color: #333333;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children .sub-menu > li:last-child {
+    border-bottom: none;
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children .sub-menu > li > a {
+    width: 100%;
+    height: 100%;
+    display: block;
+    padding: 0px 15px;
+    line-height: 40px;
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children .sub-menu > li .active {
+    color: #ffbe30;
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children .sub-menu > li:hover > a {
+    color: #ffbe30;
+    background-color: #333333!important;
+}
+
+.default-header-section .header-bottom .user-search-btn-group > ul > .menu-item-has-children:hover .sub-menu {
+    opacity: 1;
+    visibility: visible;
 }
 
 .auto-hide-header {
